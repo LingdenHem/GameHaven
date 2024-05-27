@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 const Mainul = styled.ul`
   display: flex;
@@ -7,16 +8,15 @@ const Mainul = styled.ul`
   list-style-type: none;
   gap: 10px;
   padding: 10px;
+  color: white;
 `;
 
 const Navbar = () => {
   return (
-    <div>
-      <Mainul>
-        <li>Login</li>
-        <li>Profile</li>
-      </Mainul>
-    </div>
+    <Mainul>
+      <Link to="/">Home</Link>
+      <Link to="/profile/">Profile</Link>
+    </Mainul>
   );
 };
 

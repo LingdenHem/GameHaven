@@ -1,21 +1,19 @@
 import React from "react";
-import "./App.css";
-import styled from "styled-components";
-import Navbar from "./Navbar";
-
-const MainHeading = styled.h1`
-  font-family: "Orbitron", sans-serif;
-  font-weight: 700;
-  font-size: 60px;
-  text-align: center;
-  color: black;
-`;
+import { Route, Routes } from "react-router-dom";
+import Profile from "./pages/Profile";
+import HomePage from "./pages/HomePage";
+import Navbar from "./components/Navbar";
+import GenreCollection from "./pages/GenreCollection";
 
 function App() {
   return (
     <>
       <Navbar />
-      <MainHeading>GameHaven</MainHeading>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/genrecollection/:genre" element={<GenreCollection />} />
+      </Routes>
     </>
   );
 }
