@@ -4,6 +4,8 @@ import Profile from "./pages/Profile";
 import HomePage from "./pages/HomePage";
 import Navbar from "./components/Navbar";
 import GenreCollection from "./pages/GenreCollection";
+import GamePage from "./pages/GamePage";
+import { useContext } from "react";
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/genrecollection/:genre" element={<GenreCollection />} />
+        <Route path="/game/:id" element={<GamePage />} />
       </Routes>
     </>
   );
