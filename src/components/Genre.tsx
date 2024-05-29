@@ -1,7 +1,44 @@
-import React from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { useState } from "react";
+import { getGames } from "../utils/fetchGames";
+
+const Genre = () => {
+  const navigate = useNavigate();
+  const [genre, setGenre] = useState<string[]>([]);
+  const handleNavigation = (genre: string) => {
+    navigate(`/genrecollection/${genre}`);
+  };
+
+  async function fetchData() {
+    const { genres } = await getGames();
+
+    console.log(genres);
+    setGenre(genres);
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
+
+  return (
+    <MainGrid>
+      {genre &&
+        genre.map((item) => (
+          <GridItem
+            key={item}
+            onClick={() => handleNavigation(item)}
+            style={{ cursor: "pointer" }}
+          >
+            {item.charAt(0).toUpperCase() + item.slice(1)}
+          </GridItem>
+        ))}
+    </MainGrid>
+  );
+};
+
+export default Genre;
 
 const MainGrid = styled.div`
   display: grid;
@@ -9,46 +46,22 @@ const MainGrid = styled.div`
   width: 600px;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: 10px;
-  margin: auto;
-  margin-bottom: 50px;
+  gap: 14px;
+  margin: 20px auto 50px auto;
 `;
 
 const GridItem = styled.div`
-  background-color: purple;
+  background-color: #f6f6f618;
   text-align: center;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 500;
+  border: #ffffff3f 1px solid;
+  font-family: "Orbitron", sans-serif;
+  color: white;
+
+  backdrop-filter: blur(10px);
 `;
-const Genre = () => {
-  const navigate = useNavigate();
-
-  const handleNavigation = (genre: string) => {
-    navigate(`/genrecollection/${genre}`);
-  };
-  const genres = [
-    "shooter",
-    "moba",
-    "fps",
-    "racing",
-    "rpg",
-    "fighting",
-    "stragey",
-    "horror",
-    "sports",
-  ];
-
-  return (
-    <MainGrid>
-      {genres.map((genre) => (
-        <GridItem
-          key={genre}
-          onClick={() => handleNavigation(genre)}
-          style={{ cursor: "pointer" }}
-        >
-          {genre.charAt(0).toUpperCase() + genre.slice(1)}
-        </GridItem>
-      ))}
-    </MainGrid>
-  );
-};
-
-export default Genre;

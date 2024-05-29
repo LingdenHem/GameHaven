@@ -24,12 +24,13 @@ const GenreCollection: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const data = await getGames();
-        const genreData = data.collection.find(
+        const { games } = await getGames();
+        const genreData = games.filter(
           (item: any) => item.genre.toLowerCase() === genre?.toLowerCase()
         );
+
         if (genreData) {
-          setGames(genreData.games);
+          setGames(genreData);
         }
       } catch (error) {
         console.error("Error fetching game data:", error);

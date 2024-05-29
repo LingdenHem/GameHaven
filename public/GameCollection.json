@@ -1,112 +1,150 @@
 {
-  "collection": [
+  "genres": [
+    "Shooter",
+    "RPG",
+    "Action",
+    "Strategy",
+    "Adventure",
+    "Sports",
+    "Simulation",
+    "Racing",
+    "Platformer"
+  ],
+  "games": [
     {
+      "id": "1",
       "genre": "Shooter",
-      "games": [
-        {
-          "id": "123e4567-e89b-12d3-a456-426614174000",
-          "name": "League of Legends",
-          "releaseDate": "27 oktober 2009",
-          "description": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes. With an ever-expanding roster of champions, frequent updates and a thriving tournament scene, League of Legends offers endless replayability for players of every skill level.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534000",
-          "name": "Dota 2",
-          "releaseDate": "9 juli 2013",
-          "description": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a 'hero', who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's 'Ancient', a large structure located within their base.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534001",
-          "name": "Apex Legends",
-          "releaseDate": "4 februari 2019",
-          "description": "Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. Set in the same universe as Titanfall, the game takes place in a futuristic sci-fi world where players compete in teams to be the last squad standing. With its fast-paced gameplay, unique character abilities, and strategic team-based mechanics, Apex Legends has become a popular choice among battle royale enthusiasts.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534002",
-          "name": "Fortnite",
-          "releaseDate": "25 juli 2017",
-          "description": "Fortnite is a free-to-play battle royale game developed and published by Epic Games. The game features a cartoonish art style and combines elements of shooting, building, and survival. Players are dropped onto an island where they must scavenge for weapons, build structures for defense, and eliminate other players to be the last one standing. With its constant updates, unique events, and cross-platform play, Fortnite has become a cultural phenomenon and one of the most popular games in the world.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534003",
-          "name": "Call of Duty: Warzone",
-          "releaseDate": "10 maart 2020",
-          "description": "Call of Duty: Warzone is a free-to-play battle royale game developed and published by Activision. It is part of the Call of Duty franchise and is set in the same universe as the mainline Call of Duty games. In Warzone, players are dropped onto a large map and must fight to be the last team standing. The game features a variety of weapons, vehicles, and gameplay mechanics, making it a popular choice among fans of the genre.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534004",
-          "name": "Overwatch",
-          "releaseDate": "24 mei 2016",
-          "description": "Overwatch is a team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Players choose from a diverse roster of heroes, each with their own unique abilities and playstyles, and work together to complete objectives and defeat the opposing team. With its colorful art style, fast-paced gameplay, and emphasis on teamwork, Overwatch has gained a large and dedicated player base.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534005",
-          "name": "Minecraft",
-          "releaseDate": "18 november 2011",
-          "description": "Minecraft is a sandbox video game developed by Mojang Studios. In Minecraft, players can explore a blocky, procedurally-generated 3D world and build structures using various materials. The game offers multiple gameplay modes, including survival mode where players must gather resources and maintain their health, and creative mode where players have unlimited resources and can build freely. With its endless possibilities and active modding community, Minecraft has become one of the best-selling video games of all time.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534006",
-          "name": "World of Warcraft",
-          "releaseDate": "23 november 2004",
-          "description": "World of Warcraft is a massively multiplayer online role-playing game (MMORPG) developed and published by Blizzard Entertainment. Set in the fantasy world of Azeroth, players create a character and explore the vast open world, complete quests, and engage in player versus player combat. With its rich lore, immersive gameplay, and regular content updates, World of Warcraft has remained one of the most popular and influential MMORPGs for over a decade.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        }
-      ]
+      "name": "League of Legends",
+      "releaseDate": "27 oktober 2009",
+      "description": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes. With an ever-expanding roster of champions, frequent updates and a thriving tournament scene, League of Legends offers endless replayability for players of every skill level.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
     },
     {
+      "id": "2",
+      "genre": "Shooter",
+      "name": "Dota 2",
+      "releaseDate": "9 juli 2013",
+      "description": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a 'hero', who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's 'Ancient', a large structure located within their base.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "3",
+      "genre": "Shooter",
+      "name": "Apex Legends",
+      "releaseDate": "4 februari 2019",
+      "description": "Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. Set in the same universe as Titanfall, the game takes place in a futuristic sci-fi world where players compete in teams to be the last squad standing. With its fast-paced gameplay, unique character abilities, and strategic team-based mechanics, Apex Legends has become a popular choice among battle royale enthusiasts.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "4",
+      "genre": "Shooter",
+      "name": "Fortnite",
+      "releaseDate": "25 juli 2017",
+      "description": "Fortnite is a free-to-play battle royale game developed and published by Epic Games. The game features a cartoonish art style and combines elements of shooting, building, and survival. Players are dropped onto an island where they must scavenge for weapons, build structures for defense, and eliminate other players to be the last one standing. With its constant updates, unique events, and cross-platform play, Fortnite has become a cultural phenomenon and one of the most popular games in the world.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "5",
+      "genre": "Shooter",
+      "name": "Call of Duty: Warzone",
+      "releaseDate": "10 maart 2020",
+      "description": "Call of Duty: Warzone is a free-to-play battle royale game developed and published by Activision. It is part of the Call of Duty franchise and is set in the same universe as the mainline Call of Duty games. In Warzone, players are dropped onto a large map and must fight to be the last team standing. The game features a variety of weapons, vehicles, and gameplay mechanics, making it a popular choice among fans of the genre.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "6",
+      "genre": "Shooter",
+      "name": "Overwatch",
+      "releaseDate": "24 mei 2016",
+      "description": "Overwatch is a team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Players choose from a diverse roster of heroes, each with their own unique abilities and playstyles, and work together to complete objectives and defeat the opposing team. With its colorful art style, fast-paced gameplay, and emphasis on teamwork, Overwatch has gained a large and dedicated player base.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "7",
+      "genre": "Shooter",
+      "name": "Minecraft",
+      "releaseDate": "18 november 2011",
+      "description": "Minecraft is a sandbox video game developed by Mojang Studios. In Minecraft, players can explore a blocky, procedurally-generated 3D world and build structures using various materials. The game offers multiple gameplay modes, including survival mode where players must gather resources and maintain their health, and creative mode where players have unlimited resources and can build freely. With its endless possibilities and active modding community, Minecraft has become one of the best-selling video games of all time.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "8",
+      "genre": "Shooter",
+      "name": "World of Warcraft",
+      "releaseDate": "23 november 2004",
+      "description": "World of Warcraft is a massively multiplayer online role-playing game (MMORPG) developed and published by Blizzard Entertainment. Set in the fantasy world of Azeroth, players create a character and explore the vast open world, complete quests, and engage in player versus player combat. With its rich lore, immersive gameplay, and regular content updates, World of Warcraft has remained one of the most popular and influential MMORPGs for over a decade.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "9",
       "genre": "RPG",
-      "games": [
-        {
-          "id": "123e4567-e89b-12d3-a456-426614174000",
-          "name": "The Elder Scrolls V: Skyrim",
-          "releaseDate": "11 november 2011",
-          "description": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios. Set in the fictional province of Skyrim, players take on the role of the Dragonborn, a prophesied hero with the power to defeat dragons. With its vast open world, immersive storytelling, and countless quests and adventures, Skyrim has become a beloved RPG and a staple of the genre.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4266144534000",
-          "name": "Final Fantasy VII Remake",
-          "releaseDate": "10 april 2020",
-          "description": "Final Fantasy VII Remake is a role-playing game developed and published by Square Enix. It is a remake of the original Final Fantasy VII, a classic JRPG released in 1997. The game follows the story of Cloud Strife, a former soldier turned mercenary, as he joins an eco-terrorist group to stop a powerful corporation from draining the planet's life energy. With its stunning visuals, engaging combat system, and memorable characters, Final Fantasy VII Remake has captivated both new and old fans of the series.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-42674000",
-          "name": "The Witcher 3: Wild Hunt",
-          "releaseDate": "19 mei 2015",
-          "description": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. Set in a fantasy world inspired by Polish folklore, players control Geralt of Rivia, a monster hunter known as a Witcher. The game features a vast open world, branching storylines, and complex characters. With its immersive gameplay, rich storytelling, and stunning visuals, The Witcher 3: Wild Hunt has received critical acclaim and is considered one of the greatest RPGs of all time.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-42661ewe44534000",
-          "name": "Mass Effect 2",
-          "releaseDate": "26 januari 2010",
-          "description": "Mass Effect 2 is an action role-playing game developed by BioWare and published by Electronic Arts. It is the second installment in the Mass Effect series and follows the story of Commander Shepard as they assemble a team of elite soldiers to save the galaxy from a mysterious alien threat. The game features a deep and branching narrative, player choices that impact the story, and intense third-person shooter combat. With its compelling characters, immersive world, and impactful choices, Mass Effect 2 is widely regarded as one of the greatest RPGs of all time.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-42661wqet4174000",
-          "name": "Dragon Age: Origins",
-          "releaseDate": "3 november 2009",
-          "description": "Dragon Age: Origins is a role-playing game developed by BioWare and published by Electronic Arts. Set in the fantasy world of Thedas, players create a character and embark on a quest to save the world from a Blight, a cataclysmic event caused by demonic creatures known as Darkspawn. The game features a deep and immersive storyline, complex characters, and strategic combat. With its rich lore, player choices that shape the narrative, and memorable companions, Dragon Age: Origins is considered one of the best RPGs of its time.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        },
-        {
-          "id": "123e4567-e89b-12d3-a456-4ewe2661qerw44534000",
-          "name": "Divinity: Original Sin 2",
-          "releaseDate": "14 september 2017",
-          "description": "Divinity: Original Sin 2 is a role-playing game developed and published by Larian Studios. Set in the fantasy world of Rivellon, players create a character and embark on a quest to become a divine being and save the world from an ancient evil. The game features turn-based combat, a deep and immersive storyline, and a highly interactive world where player choices have significant consequences. With its rich gameplay mechanics, engaging quests, and cooperative multiplayer, Divinity: Original Sin 2 is considered one of the best RPGs of recent years.",
-          "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
-        }
-      ]
+      "name": "The Elder Scrolls V: Skyrim",
+      "releaseDate": "11 november 2011",
+      "description": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios. Set in the fictional province of Skyrim, players take on the role of the Dragonborn, a prophesied hero with the power to defeat dragons. With its vast open world, immersive storytelling, and countless quests and adventures, Skyrim has become a beloved RPG and a staple of the genre.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "10",
+      "genre": "RPG",
+      "name": "Final Fantasy VII Remake",
+      "releaseDate": "10 april 2020",
+      "description": "Final Fantasy VII Remake is a role-playing game developed and published by Square Enix. It is a remake of the original Final Fantasy VII, a classic JRPG released in 1997. The game follows the story of Cloud Strife, a former soldier turned mercenary, as he joins an eco-terrorist group to stop a powerful corporation from draining the planet's life energy. With its stunning visuals, engaging combat system, and memorable characters, Final Fantasy VII Remake has captivated both new and old fans of the series.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "11",
+      "genre": "RPG",
+      "name": "The Witcher 3: Wild Hunt",
+      "releaseDate": "19 mei 2015",
+      "description": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. Set in a fantasy world inspired by Polish folklore, players control Geralt of Rivia, a monster hunter known as a Witcher. The game features a vast open world, branching storylines, and complex characters. With its immersive gameplay, rich storytelling, and stunning visuals, The Witcher 3: Wild Hunt has received critical acclaim and is considered one of the greatest RPGs of all time.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "12",
+      "genre": "RPG",
+      "name": "Mass Effect 2",
+      "releaseDate": "26 januari 2010",
+      "description": "Mass Effect 2 is an action role-playing game developed by BioWare and published by Electronic Arts. It is the second installment in the Mass Effect series and follows the story of Commander Shepard as they assemble a team of elite soldiers to save the galaxy from a mysterious alien threat. The game features a deep and branching narrative, player choices that impact the story, and intense third-person shooter combat. With its compelling characters, immersive world, and impactful choices, Mass Effect 2 is widely regarded as one of the greatest RPGs of all time.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "13",
+      "genre": "RPG",
+      "name": "Dragon Age: Origins",
+      "releaseDate": "3 november 2009",
+      "description": "Dragon Age: Origins is a role-playing game developed by BioWare and published by Electronic Arts. Set in the fantasy world of Thedas, players create a character and embark on a quest to save the world from a Blight, a cataclysmic event caused by demonic creatures known as Darkspawn. The game features a deep and immersive storyline, complex characters, and strategic combat. With its rich lore, player choices that shape the narrative, and memorable companions, Dragon Age: Origins is considered one of the best RPGs of its time.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "14",
+      "genre": "RPG",
+      "name": "Divinity: Original Sin 2",
+      "releaseDate": "14 september 2017",
+      "description": "Divinity: Original Sin 2 is a role-playing game developed and published by Larian Studios. Set in the fantasy world of Rivellon, players create a character and embark on a quest to become a divine being and save the world from an ancient evil. The game features turn-based combat, a deep and immersive storyline, and a highly interactive world where player choices have significant consequences. With its rich gameplay mechanics, engaging quests, and cooperative multiplayer, Divinity: Original Sin 2 is considered one of the best RPGs of recent years.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "15",
+      "genre": "Action",
+      "name": "Grand Theft Auto V",
+      "releaseDate": "17 september 2013",
+      "description": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the fictional state of San Andreas, players control three protagonists as they engage in various criminal activities and missions. The game features an open world environment, a nonlinear story, and a wide range of gameplay mechanics, including driving, shooting, and exploring. With its immersive world, detailed graphics, and engaging gameplay, Grand Theft Auto V has become one of the best-selling video games of all time.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+    },
+    {
+      "id": "16",
+      "genre": "Action",
+      "name": "Red Dead Redemption 2",
+      "releaseDate": "26 oktober 2018",
+      "description": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. Set in the late 1800s, the game follows the story of Arthur Morgan, a member of the Van der Linde gang, as he navigates the harsh and unforgiving landscapes of the American frontier. The game features an open world environment, a deep and immersive storyline, and a variety of gameplay mechanics, including gunfights, horseback riding, and exploration. With its stunning visuals, realistic world, and compelling characters, Red Dead Redemption 2 has received critical acclaim and is considered one of the greatest video games of all time."
+    },
+    {
+      "id": "17",
+      "genre": "Action",
+      "name": "Assassin's Creed Valhalla",
+      "releaseDate": "10 november 2020",
+      "description": "Assassin's Creed Valhalla is an action role-playing game developed and published by Ubisoft. Set in the Viking Age, players take on the role of Eivor, a Viking raider who leads their clan from Norway to the shores of England. The game features open-world exploration, intense combat, and a rich narrative that explores the conflict between the Vikings and the Anglo-Saxons. With its immersive world, epic battles, and engaging gameplay, Assassin's Creed Valhalla has been praised as one of the best entries in the Assassin's Creed series.",
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
     }
   ]
 }

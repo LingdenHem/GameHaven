@@ -4,11 +4,26 @@ import { Link } from "react-router-dom";
 
 const Mainul = styled.ul`
   display: flex;
-  justify-content: flex-end;
   list-style-type: none;
-  gap: 10px;
+  gap: 24px;
   padding: 10px;
-  color: white;
+  margin: 0;
+  background-color: #f6f6f618;
+  text-align: center;
+  border-radius: 3px;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 500;
+  border-bottom: #ffffff3f 1px solid;
+  font-family: "Orbitron", sans-serif;
+
+  backdrop-filter: blur(10px);
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
 `;
 
 const Navbar = () => {
