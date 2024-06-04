@@ -12,11 +12,6 @@ interface Game {
   id: string;
 }
 
-interface GenreCollectionData {
-  genre: string;
-  games: Game[];
-}
-
 const GenreCollection: React.FC = () => {
   const { genre } = useParams<{ genre?: string }>();
   const [games, setGames] = useState<Game[]>([]);
@@ -45,19 +40,24 @@ const GenreCollection: React.FC = () => {
   }, [genre]);
 
   return (
-    <div>
-      <h1>{genre} Games</h1>
+    <>
+      <h1
+        style={{ color: "white", fontFamily: "Orbitron", textAlign: "center" }}
+      >
+        {genre}
+      </h1>
       <MainGrid>
         {games.map((game, index) => (
           <GameBox key={index}>
-            <Link to={`/game/${game.id}?genre=${genre}`} className="content">
-              <h2>{game.name}</h2>
-            </Link>
+            <Link
+              to={`/game/${game.id}?genre=${genre}`}
+              className="content"
+            ></Link>
             <img src={game.image} alt={game.name} />
           </GameBox>
         ))}
       </MainGrid>
-    </div>
+    </>
   );
 };
 
@@ -81,19 +81,25 @@ const GameBox = styled.div`
 
   .content {
     position: absolute;
-    inset: 0;
 
+    width: 100%;
+    height: 100%;
     background-color: #00000054;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 
   img {
+    width: 100%;
     height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    object-fit: cover;
   }
 `;

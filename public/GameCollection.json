@@ -1,19 +1,19 @@
 {
   "genres": [
     "Shooter",
+    "MOBA",
     "RPG",
     "Action",
     "Strategy",
     "Adventure",
     "Sports",
     "Simulation",
-    "Racing",
-    "Platformer"
+    "Racing"
   ],
   "games": [
     {
       "id": "1",
-      "genre": "Shooter",
+      "genre": "MOBA",
       "name": "League of Legends",
       "releaseDate": "27 oktober 2009",
       "description": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes. With an ever-expanding roster of champions, frequent updates and a thriving tournament scene, League of Legends offers endless replayability for players of every skill level.",
@@ -21,11 +21,11 @@
     },
     {
       "id": "2",
-      "genre": "Shooter",
+      "genre": "MOBA",
       "name": "Dota 2",
       "releaseDate": "9 juli 2013",
       "description": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a 'hero', who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's 'Ancient', a large structure located within their base.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_616x353.jpg?t=1714502360"
     },
     {
       "id": "3",
@@ -33,7 +33,7 @@
       "name": "Apex Legends",
       "releaseDate": "4 februari 2019",
       "description": "Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. Set in the same universe as Titanfall, the game takes place in a futuristic sci-fi world where players compete in teams to be the last squad standing. With its fast-paced gameplay, unique character abilities, and strategic team-based mechanics, Apex Legends has become a popular choice among battle royale enthusiasts.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1810/63e55900b867e1d9e50bf139f92fe1fe94e9a048503990d3.png"
     },
     {
       "id": "4",
@@ -41,7 +41,7 @@
       "name": "Fortnite",
       "releaseDate": "25 juli 2017",
       "description": "Fortnite is a free-to-play battle royale game developed and published by Epic Games. The game features a cartoonish art style and combines elements of shooting, building, and survival. Players are dropped onto an island where they must scavenge for weapons, build structures for defense, and eliminate other players to be the last one standing. With its constant updates, unique events, and cross-platform play, Fortnite has become a cultural phenomenon and one of the most popular games in the world.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2801/803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.png"
     },
     {
       "id": "5",
@@ -49,7 +49,7 @@
       "name": "Call of Duty: Warzone",
       "releaseDate": "10 maart 2020",
       "description": "Call of Duty: Warzone is a free-to-play battle royale game developed and published by Activision. It is part of the Call of Duty franchise and is set in the same universe as the mainline Call of Duty games. In Warzone, players are dropped onto a large map and must fight to be the last team standing. The game features a variety of weapons, vehicles, and gameplay mechanics, making it a popular choice among fans of the genre.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/wz/overview/WZPLP_Hero.webp"
     },
     {
       "id": "6",
@@ -57,23 +57,23 @@
       "name": "Overwatch",
       "releaseDate": "24 mei 2016",
       "description": "Overwatch is a team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Players choose from a diverse roster of heroes, each with their own unique abilities and playstyles, and work together to complete objectives and defeat the opposing team. With its colorful art style, fast-paced gameplay, and emphasis on teamwork, Overwatch has gained a large and dedicated player base.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt030bf3d606661d3c/633f5be164fe5a7d4481a16c/overwatch-section1-feature1.png?imwidth=1920&imdensity=2.625"
     },
     {
       "id": "7",
-      "genre": "Shooter",
+      "genre": "RPG",
       "name": "Minecraft",
       "releaseDate": "18 november 2011",
       "description": "Minecraft is a sandbox video game developed by Mojang Studios. In Minecraft, players can explore a blocky, procedurally-generated 3D world and build structures using various materials. The game offers multiple gameplay modes, including survival mode where players must gather resources and maintain their health, and creative mode where players have unlimited resources and can build freely. With its endless possibilities and active modding community, Minecraft has become one of the best-selling video games of all time.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png"
     },
     {
       "id": "8",
-      "genre": "Shooter",
+      "genre": "RPG",
       "name": "World of Warcraft",
       "releaseDate": "23 november 2004",
       "description": "World of Warcraft is a massively multiplayer online role-playing game (MMORPG) developed and published by Blizzard Entertainment. Set in the fantasy world of Azeroth, players create a character and explore the vast open world, complete quests, and engage in player versus player combat. With its rich lore, immersive gameplay, and regular content updates, World of Warcraft has remained one of the most popular and influential MMORPGs for over a decade.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltbe1582ef1691da64/653ad22f23ad6fdfc530381c/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.png?imwidth=1920&imdensity=2.625"
     },
     {
       "id": "9",
@@ -81,7 +81,7 @@
       "name": "The Elder Scrolls V: Skyrim",
       "releaseDate": "11 november 2011",
       "description": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios. Set in the fictional province of Skyrim, players take on the role of the Dragonborn, a prophesied hero with the power to defeat dragons. With its vast open world, immersive storytelling, and countless quests and adventures, Skyrim has become a beloved RPG and a staple of the genre.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg"
     },
     {
       "id": "10",
@@ -89,7 +89,7 @@
       "name": "Final Fantasy VII Remake",
       "releaseDate": "10 april 2020",
       "description": "Final Fantasy VII Remake is a role-playing game developed and published by Square Enix. It is a remake of the original Final Fantasy VII, a classic JRPG released in 1997. The game follows the story of Cloud Strife, a former soldier turned mercenary, as he joins an eco-terrorist group to stop a powerful corporation from draining the planet's life energy. With its stunning visuals, engaging combat system, and memorable characters, Final Fantasy VII Remake has captivated both new and old fans of the series.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/113075PxnarzRek4cRpjrRWSpLfrcBd23B5e_Yj2azms6nWYKmySv4h3a22G5_R1CM4BQUmSRD6oOArDROKv041NUkgun78-.png?w=440"
     },
     {
       "id": "11",
@@ -97,7 +97,7 @@
       "name": "The Witcher 3: Wild Hunt",
       "releaseDate": "19 mei 2015",
       "description": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. Set in a fantasy world inspired by Polish folklore, players control Geralt of Rivia, a monster hunter known as a Witcher. The game features a vast open world, branching storylines, and complex characters. With its immersive gameplay, rich storytelling, and stunning visuals, The Witcher 3: Wild Hunt has received critical acclaim and is considered one of the greatest RPGs of all time.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png"
     },
     {
       "id": "12",
@@ -105,23 +105,24 @@
       "name": "Mass Effect 2",
       "releaseDate": "26 januari 2010",
       "description": "Mass Effect 2 is an action role-playing game developed by BioWare and published by Electronic Arts. It is the second installment in the Mass Effect series and follows the story of Commander Shepard as they assemble a team of elite soldiers to save the galaxy from a mysterious alien threat. The game features a deep and branching narrative, player choices that impact the story, and intense third-person shooter combat. With its compelling characters, immersive world, and impactful choices, Mass Effect 2 is widely regarded as one of the greatest RPGs of all time.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://store-images.s-microsoft.com/image/apps.43586.65104284338300891.dcd8a095-2ff3-4393-acfc-5bd52cf20770.f2cd97d0-05de-4f36-86a2-6ac2beafb4da?q=90&w=480&h=270"
     },
     {
       "id": "13",
       "genre": "RPG",
-      "name": "Dragon Age: Origins",
-      "releaseDate": "3 november 2009",
-      "description": "Dragon Age: Origins is a role-playing game developed by BioWare and published by Electronic Arts. Set in the fantasy world of Thedas, players create a character and embark on a quest to save the world from a Blight, a cataclysmic event caused by demonic creatures known as Darkspawn. The game features a deep and immersive storyline, complex characters, and strategic combat. With its rich lore, player choices that shape the narrative, and memorable companions, Dragon Age: Origins is considered one of the best RPGs of its time.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "name": "Dark Souls III",
+      "releaseDate": "April 12, 2016",
+      "description": "Dark Souls III is an action RPG developed by FromSoftware. Known for its challenging combat and intricate world design, it offers a dark and atmospheric experience where players must navigate through a treacherous world filled with formidable enemies.",
+      "image": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png"
     },
+
     {
       "id": "14",
       "genre": "RPG",
       "name": "Divinity: Original Sin 2",
       "releaseDate": "14 september 2017",
       "description": "Divinity: Original Sin 2 is a role-playing game developed and published by Larian Studios. Set in the fantasy world of Rivellon, players create a character and embark on a quest to become a divine being and save the world from an ancient evil. The game features turn-based combat, a deep and immersive storyline, and a highly interactive world where player choices have significant consequences. With its rich gameplay mechanics, engaging quests, and cooperative multiplayer, Divinity: Original Sin 2 is considered one of the best RPGs of recent years.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/cdn/EP3383/CUSA11898_00/qCNa6hRH1XzGkRoUdKnNS0Zon3GMomx3.png"
     },
     {
       "id": "15",
@@ -129,22 +130,404 @@
       "name": "Grand Theft Auto V",
       "releaseDate": "17 september 2013",
       "description": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the fictional state of San Andreas, players control three protagonists as they engage in various criminal activities and missions. The game features an open world environment, a nonlinear story, and a wide range of gameplay mechanics, including driving, shooting, and exploring. With its immersive world, detailed graphics, and engaging gameplay, Grand Theft Auto V has become one of the best-selling video games of all time.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/mYn2ETBKFct26V9mJnZi4aSS.png"
     },
     {
       "id": "16",
       "genre": "Action",
       "name": "Red Dead Redemption 2",
       "releaseDate": "26 oktober 2018",
-      "description": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. Set in the late 1800s, the game follows the story of Arthur Morgan, a member of the Van der Linde gang, as he navigates the harsh and unforgiving landscapes of the American frontier. The game features an open world environment, a deep and immersive storyline, and a variety of gameplay mechanics, including gunfights, horseback riding, and exploration. With its stunning visuals, realistic world, and compelling characters, Red Dead Redemption 2 has received critical acclaim and is considered one of the greatest video games of all time."
+      "description": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. Set in the late 1800s, the game follows the story of Arthur Morgan, a member of the Van der Linde gang, as he navigates the harsh and unforgiving landscapes of the American frontier. The game features an open world environment, a deep and immersive storyline, and a variety of gameplay mechanics, including gunfights, horseback riding, and exploration. With its stunning visuals, realistic world, and compelling characters, Red Dead Redemption 2 has received critical acclaim and is considered one of the greatest video games of all time.",
+      "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
+    },
+
+    {
+      "id": "19",
+      "genre": "Shooter",
+      "name": "Counter-Strike: Global Offensive",
+      "releaseDate": "21 August 2012",
+      "description": "Counter-Strike: Global Offensive (CS:GO) is a first-person shooter game developed and published by Valve. It is the fourth game in the Counter-Strike series and features classic gameplay with two teams, terrorists and counter-terrorists, competing in various game modes. CS:GO is known for its competitive multiplayer experience, strategic gameplay, and skill-based mechanics. With its active esports scene and dedicated player community, CS:GO has become one of the most popular and enduring multiplayer games.",
+      "image": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/03/14/csgo.jpg"
     },
     {
-      "id": "17",
+      "id": "20",
+      "genre": "Racing",
+      "name": "Forza Horizon 5",
+      "releaseDate": "9 november 2021",
+      "description": "Forza Horizon 5 is an open-world racing game developed by Playground Games and published by Xbox Game Studios. Set in a fictional representation of Mexico, players participate in various racing events and challenges across diverse landscapes. The game features a dynamic weather system, a wide range of vehicles to choose from, and a robust multiplayer mode. With its stunning graphics, immersive gameplay, and extensive car customization options, Forza Horizon 5 has been highly anticipated by racing game enthusiasts.",
+      "image": "https://stevivor.com/wp-content/uploads/2021/11/ForzaHorizon5-5.jpg"
+    },
+
+    {
+      "id": "21",
+      "genre": "MOBA",
+      "name": "Heroes of the Storm",
+      "releaseDate": "June 2, 2015",
+      "description": "Heroes of the Storm is a MOBA game developed by Blizzard Entertainment. It features heroes from Blizzard's franchises, including Warcraft, StarCraft, and Diablo. Players form teams and battle against each other, leveraging each hero's unique abilities and strategies to defeat the opposing team.",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Hereos-of-the-Strom.jpg"
+    },
+    {
+      "id": "22",
+      "genre": "MOBA",
+      "name": "Smite",
+      "releaseDate": "March 25, 2014",
+      "description": "Smite is a third-person MOBA developed by Hi-Rez Studios. Players control gods and mythological figures from various pantheons and engage in team-based combat. The third-person perspective and mythological theme provide a unique twist on the traditional MOBA formula.",
+      "image": "https://i.ytimg.com/vi/xAPsmI_zDZs/maxresdefault.jpg"
+    },
+    {
+      "id": "23",
+      "genre": "MOBA",
+      "name": "Arena of Valor",
+      "releaseDate": "October 14, 2016",
+      "description": "Arena of Valor is a mobile MOBA developed by TiMi Studios and published by Tencent Games. It features a variety of heroes and game modes, offering fast-paced and competitive gameplay optimized for mobile devices.",
+      "image": "https://imageio.forbes.com/blogs-images/ryanwhitwam/files/2017/12/arena-of-valor.jpg?format=jpg&height=600&width=1200&fit=bounds"
+    },
+    {
+      "id": "24",
+      "genre": "MOBA",
+      "name": "Vainglory",
+      "releaseDate": "November 16, 2014",
+      "description": "Vainglory is a mobile MOBA developed by Super Evil Megacorp. It offers a deep and strategic gameplay experience with a wide variety of heroes and game modes. The game is known for its high-quality graphics and smooth controls on mobile platforms.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025580/header.jpg?t=1593627057"
+    },
+    {
+      "id": "25",
+      "genre": "MOBA",
+      "name": "Paragon",
+      "releaseDate": "August 16, 2016",
+      "description": "Paragon was a third-person MOBA developed by Epic Games. It featured a unique blend of MOBA and action gameplay, with a focus on strategic team-based combat and character customization. The game was known for its impressive graphics and immersive gameplay.",
+      "image": "https://meups.com.br/wp-content/uploads/2017/07/PARAGON-DESTACADA.jpg"
+    },
+    {
+      "id": "26",
+      "genre": "MOBA",
+      "name": "Battlerite",
+      "releaseDate": "November 8, 2017",
+      "description": "Battlerite is a team-based MOBA developed by Stunlock Studios. It focuses on fast-paced combat and skill-based gameplay, with a roster of unique champions and a variety of game modes. The game is known for its dynamic battles and competitive scene.",
+      "image": "https://cdn.stunlock.com/blog/2019/07/03154019/battlerite_announcement1.jpg"
+    },
+
+    {
+      "id": "18",
       "genre": "Action",
-      "name": "Assassin's Creed Valhalla",
-      "releaseDate": "10 november 2020",
-      "description": "Assassin's Creed Valhalla is an action role-playing game developed and published by Ubisoft. Set in the Viking Age, players take on the role of Eivor, a Viking raider who leads their clan from Norway to the shores of England. The game features open-world exploration, intense combat, and a rich narrative that explores the conflict between the Vikings and the Anglo-Saxons. With its immersive world, epic battles, and engaging gameplay, Assassin's Creed Valhalla has been praised as one of the best entries in the Assassin's Creed series.",
-      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b"
+      "name": "Mobile Legends: Bang Bang",
+      "releaseDate": "July 14, 2016",
+      "description": "Mobile Legends: Bang Bang is a multiplayer online battle arena (MOBA) game developed by Moonton. It features fast-paced 5v5 battles with a wide selection of heroes, focusing on strategic team-based gameplay and competitive matches.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1005080/header.jpg?t=1565791042"
+    },
+
+    {
+      "id": "27",
+      "genre": "Racing",
+      "name": "Need for Speed Heat",
+      "releaseDate": "November 8, 2019",
+      "description": "Need for Speed Heat is an action-packed racing game developed by Ghost Games. It features both day and night racing events, with high-stakes street racing and cop chases set in the fictional Palm City.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/XemhVDBuAEVrQXUkJF57ZsdX.jpg"
+    },
+
+    {
+      "id": "28",
+      "genre": "Racing",
+      "name": "Gran Turismo Sport",
+      "releaseDate": "October 17, 2017",
+      "description": "Gran Turismo Sport is a racing simulation game developed by Polyphony Digital. It focuses on realistic driving mechanics, a wide selection of cars, and competitive online racing with a strong emphasis on esports.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1019/IiojktfMAA9FE7PHkrhdvyHD.png"
+    },
+    {
+      "id": "29",
+      "genre": "Racing",
+      "name": "Mario Kart 8 Deluxe",
+      "releaseDate": "April 28, 2017",
+      "description": "Mario Kart 8 Deluxe is a fun and frantic kart racing game developed by Nintendo. It features a variety of characters from the Mario franchise, creative tracks, and items to use against opponents, offering a highly entertaining multiplayer experience.",
+      "image": "https://static.posters.cz/image/750/poster/mario-kart-8-deluxe-i50037.jpg"
+    },
+    {
+      "id": "30",
+      "genre": "Racing",
+      "name": "F1 2020",
+      "releaseDate": "July 10, 2020",
+      "description": "F1 2020 is a racing simulation game developed by Codemasters. It offers a realistic Formula 1 experience with all official teams, drivers, and circuits, as well as a new My Team mode allowing players to create and manage their own F1 team.",
+      "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA20027_00/3/i_d55efc67598c1cf55e998d4a9a358cbec0a3bf600c48753f081a0e402be98463/i/icon0.png"
+    },
+    {
+      "id": "31",
+      "genre": "Racing",
+      "name": "Dirt Rally 2.0",
+      "releaseDate": "February 26, 2019",
+      "description": "Dirt Rally 2.0 is an off-road racing game developed by Codemasters. It emphasizes realistic rally driving with challenging tracks, dynamic weather conditions, and a variety of rally cars to choose from.",
+      "image": "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/59UfzHlIjF8VYee5ivYYZdW8vhuHA0Df.png"
+    },
+    {
+      "id": "32",
+      "genre": "Racing",
+      "name": "Assetto Corsa",
+      "releaseDate": "December 19, 2014",
+      "description": "Assetto Corsa is a racing simulation game developed by Kunos Simulazioni. It is known for its realistic physics and extensive modding community, offering a wide range of cars and tracks to race on.",
+      "image": "https://image.api.playstation.com/cdn/EP4040/CUSA01797_00/NMcAucyANMnYMNkz6V5vk9f5YXty2mCz.png"
+    },
+    {
+      "id": "33",
+      "genre": "Racing",
+      "name": "Project Cars 2",
+      "releaseDate": "September 22, 2017",
+      "description": "Project Cars 2 is a racing simulation game developed by Slightly Mad Studios. It features a large selection of cars and tracks, realistic driving physics, and dynamic weather conditions to provide a comprehensive racing experience.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Project_CARS_2_cover_art.jpg"
+    },
+    {
+      "id": "34",
+      "genre": "Racing",
+      "name": "The Crew 2",
+      "releaseDate": "June 29, 2018",
+      "description": "The Crew 2 is an open-world racing game developed by Ivory Tower. It allows players to race across the United States in various vehicles, including cars, motorcycles, boats, and airplanes, offering a diverse and expansive racing experience.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2708/28833b618429cfe5f65d24ea11933ae62e3308ea7d2015be.png"
+    },
+    {
+      "id": "35",
+      "genre": "Action",
+      "name": "Cyberpunk 2077",
+      "releaseDate": "December 10, 2020",
+      "description": "Cyberpunk 2077 is an open-world action RPG developed by CD Projekt Red. Set in the dystopian Night City, players assume the role of V, a mercenary with customizable cybernetic enhancements, engaging in a narrative-driven experience with multiple choices and outcomes.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/bxSj4jO0KBqUgAbH3zuNjCje.jpg"
+    },
+
+    {
+      "id": "36",
+      "genre": "Action",
+      "name": "Horizon Zero Dawn",
+      "releaseDate": "February 28, 2017",
+      "description": "Horizon Zero Dawn is an action RPG developed by Guerrilla Games. Set in a post-apocalyptic world dominated by robotic creatures, players control Aloy, a skilled hunter, on her quest to uncover the secrets of her past and the world around her.",
+      "image": "https://i.ytimg.com/vi_webp/wwzmInYpPdA/maxresdefault.webp"
+    },
+
+    {
+      "id": "37",
+      "genre": "Action",
+      "name": "Sekiro: Shadows Die Twice",
+      "releaseDate": "March 22, 2019",
+      "description": "Sekiro: Shadows Die Twice is an action-adventure game developed by FromSoftware. Players control a shinobi named Wolf, navigating a dark and twisted version of late 1500s Sengoku Japan, facing intense combat challenges and formidable enemies.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
+    },
+    {
+      "id": "38",
+      "genre": "Action",
+      "name": "Control",
+      "releaseDate": "August 27, 2019",
+      "description": "Control is an action-adventure game developed by Remedy Entertainment. Set in a secretive government facility, players assume the role of Jesse Faden, who wields powerful telekinetic abilities to uncover mysteries and combat supernatural threats.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/kZuu7RcHultdoVUuGsReuGcq.png"
+    },
+    {
+      "id": "39",
+      "genre": "Action",
+      "name": "Doom Eternal",
+      "releaseDate": "March 20, 2020",
+      "description": "Doom Eternal is a first-person shooter developed by id Software. It continues the story of the Doom Slayer, battling demonic forces from Hell across various dimensions with fast-paced, visceral combat and an array of powerful weapons.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/b4Q1XWYaTdJLUvRuALuqr0wP.png"
+    },
+    {
+      "id": "40",
+      "genre": "Action",
+      "name": "Ghost of Tsushima",
+      "releaseDate": "July 17, 2020",
+      "description": "Ghost of Tsushima is an action-adventure game developed by Sucker Punch Productions. Set in feudal Japan, players assume the role of Jin Sakai, a samurai warrior on a quest to protect Tsushima Island from Mongol invaders, blending stealth and combat.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg"
+    },
+    {
+      "id": "41",
+      "genre": "MOBA",
+      "name": "Mobile Legends: Bang Bang",
+      "releaseDate": "July 14, 2016",
+      "description": "Mobile Legends: Bang Bang is a multiplayer online battle arena (MOBA) game developed by Moonton. It features fast-paced 5v5 battles with a wide selection of heroes, focusing on strategic team-based gameplay and competitive matches.",
+      "image": "https://play-lh.googleusercontent.com/wZ5Q-PRO17_3sYN6-YOsp6pnUslKPuXe7HWxIFVZeosvL92F_-cWadMiFvoH9p8JQYg"
+    },
+
+    {
+      "id": "42",
+      "genre": "Shooter",
+      "name": "Valorant",
+      "releaseDate": "June 2, 2020",
+      "description": "Valorant is a tactical first-person shooter developed by Riot Games. It combines precise gunplay with unique abilities for each agent, emphasizing team strategy and skill in a 5v5 format.",
+      "image": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-d9ca2c0fbaff9d80e8dedfbd726aa438"
+    },
+    {
+      "id": "43",
+      "genre": "Shooter",
+      "name": "Rainbow Six Siege",
+      "releaseDate": "December 1, 2015",
+      "description": "Tom Clancy's Rainbow Six Siege is a tactical shooter developed by Ubisoft. It focuses on close-quarters combat, strategy, and team play with destructible environments and a variety of operators each with unique abilities.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2019/at0SahvPr4sGm3KX42HDFI1K.jpg"
+    },
+    {
+      "id": "44",
+      "genre": "Shooter",
+      "name": "PUBG: Battlegrounds",
+      "releaseDate": "December 20, 2017",
+      "description": "PlayerUnknown's Battlegrounds (PUBG) is a battle royale shooter developed by PUBG Corporation. Players are dropped onto an island and must scavenge for weapons and gear, fighting to be the last person standing.",
+      "image": "https://img.redbull.com/images/c_crop,x_502,y_0,h_1080,w_864/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2017/08/22/c54ac74a-74b5-43b5-9352-5041fdc50766/pubg-title.jpg.jpg"
+    },
+    {
+      "id": "45",
+      "genre": "Shooter",
+      "name": "Destiny 2",
+      "releaseDate": "October 1, 2019",
+      "description": "Destiny 2 is an online-only multiplayer first-person shooter developed by Bungie. It features a blend of PvE and PvP gameplay, with a strong emphasis on cooperative missions, raids, and a rich lore-driven universe.",
+      "image": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/d2_IntoTheLight_Boot-Image_MASTER_EPIC_Landscape_Offer_EN_2560x1440-40eba9b07abfa902ffdc2361ed5b264e"
+    },
+
+    {
+      "id": "46",
+      "genre": "RPG",
+      "name": "Fallout 4",
+      "releaseDate": "November 10, 2015",
+      "description": "Fallout 4 is an open-world RPG developed by Bethesda Game Studios. Set in a post-apocalyptic world, players navigate the Wasteland, engaging in combat, building settlements, and making choices that affect the world and its inhabitants.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png"
+    },
+
+    {
+      "id": "47",
+      "genre": "Sports",
+      "name": "FIFA 23",
+      "releaseDate": "September 30, 2022",
+      "description": "FIFA 23 is a football simulation game developed by EA Sports. It features realistic gameplay, updated teams and players, and various game modes including Ultimate Team, Career Mode, and Volta Football.",
+      "image": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/common/pitch-notes-assets/eas-fifa23-gen5-se-km-keyart-horz-rgb30.jpg"
+    },
+
+    {
+      "id": "48",
+      "genre": "Sports",
+      "name": "NBA 2K23",
+      "releaseDate": "September 9, 2022",
+      "description": "NBA 2K23 is a basketball simulation game developed by Visual Concepts and published by 2K Sports. It offers realistic gameplay, various game modes, and an immersive career mode known as MyCareer.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2200/vLdTCoRLhhHmAAqRypgAOlAI.png"
+    },
+    {
+      "id": "49",
+      "genre": "Sports",
+      "name": "Madden NFL 23",
+      "releaseDate": "August 19, 2022",
+      "description": "Madden NFL 23 is an American football simulation game developed by EA Sports. It features updated rosters, realistic gameplay, and various modes including Franchise, Ultimate Team, and Face of the Franchise.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1916/JLkOZeWvKQmJqaIJIlwhVnnY.png"
+    },
+    {
+      "id": "50",
+      "genre": "Sports",
+      "name": "MLB The Show 23",
+      "releaseDate": "March 28, 2023",
+      "description": "MLB The Show 23 is a baseball simulation game developed by San Diego Studio and published by Sony Interactive Entertainment. It features realistic gameplay, updated teams and players, and various game modes including Road to the Show and Diamond Dynasty.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2619/qRplKbpzcLSWT3PB4Gu7t4NB.jpg"
+    },
+    {
+      "id": "51",
+      "genre": "Sports",
+      "name": "eFootball 2023",
+      "releaseDate": "August 25, 2022",
+      "description": "eFootball 2023 is a football simulation game developed by Konami. It features realistic gameplay, updated teams and players, and various game modes including Matchday and MyClub.",
+      "image": "https://assets-prd.ignimgs.com/2022/09/09/efootball-2023-button-fin-1662706485618.jpg"
+    },
+    {
+      "id": "52",
+      "genre": "Sports",
+      "name": "F1 22",
+      "releaseDate": "July 1, 2022",
+      "description": "F1 22 is a racing simulation game developed by Codemasters. It features all the official teams, drivers, and circuits from the 2022 FIA Formula One World Championship, offering a realistic and immersive racing experience.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1010/UWJxJ4D7pyHvyyePY3mFaASN.png"
+    },
+    {
+      "id": "53",
+      "genre": "Sports",
+      "name": "NHL 23",
+      "releaseDate": "October 14, 2022",
+      "description": "NHL 23 is an ice hockey simulation game developed by EA Sports. It features realistic gameplay, updated teams and players, and various game modes including Franchise Mode, World of CHEL, and Ultimate Team.",
+      "image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23C9HQ/0152cbc495194593aaacf66ecbd7a1a5.jpg/f/nhl-23-nordic.jpg"
+    },
+    {
+      "id": "54",
+      "genre": "Sports",
+      "name": "WWE 2K23",
+      "releaseDate": "March 14, 2023",
+      "description": "WWE 2K23 is a professional wrestling simulation game developed by Visual Concepts and published by 2K Sports. It features a roster of WWE superstars, realistic wrestling gameplay, and various game modes including MyCareer and Universe Mode.",
+      "image": "https://assets.2k.com/1a6ngf98576c/1NEWwZOF36tWNN3Ho4JmC9/fe0754ebdb58793f59c464b66c12e86e/WWE23-WEBSITE-MODULE3-SKU-ICON-WWE23.jpg"
+    },
+    {
+      "id": "55",
+      "genre": "Sports",
+      "name": "Riders Republic",
+      "releaseDate": "October 28, 2021",
+      "description": "Riders Republic is a sports simulation game developed by Ubisoft. It features various extreme sports such as biking, skiing, snowboarding, and wingsuit flying, offering a large open world and multiplayer experience.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202201/1300/huRSi3QcAk2ppr8FyHvy92sg.png"
+    },
+    {
+      "id": "56",
+      "genre": "Strategy",
+      "name": "Civilization VI",
+      "releaseDate": "October 21, 2016",
+      "description": "Civilization VI is a turn-based strategy game developed by Firaxis Games. Players build and expand an empire from the ancient to the modern age, managing resources, engaging in diplomacy, and leading their civilization to victory.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0117/7m6ildcmU9N41ldFdhEXb09O.jpg"
+    },
+    {
+      "id": "57",
+      "genre": "Strategy",
+      "name": "Age of Empires IV",
+      "releaseDate": "October 28, 2021",
+      "description": "Age of Empires IV is a real-time strategy game developed by Relic Entertainment. It brings a new chapter to the Age of Empires franchise with historical campaigns, various civilizations, and immersive gameplay.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/29/age-of-empires-iv-key-1640816210070.jpg"
+    },
+
+    {
+      "id": "58",
+      "genre": "Strategy",
+      "name": "Total War: Warhammer III",
+      "releaseDate": "February 17, 2022",
+      "description": "Total War: Warhammer III is a real-time strategy and turn-based tactics game developed by Creative Assembly. It combines large-scale battles with empire-building elements, set in the fantasy world of Warhammer.",
+      "image": "https://www.gamekeys.se/wp-content/uploads/2022/02/Total_War_Warhammer_3_cover_art.jpg"
+    },
+    {
+      "id": "52",
+      "genre": "Strategy",
+      "name": "Stellaris",
+      "releaseDate": "May 9, 2016",
+      "description": "Stellaris is a grand strategy game developed by Paradox Interactive. Set in space, players manage a space-faring civilization, exploring the galaxy, engaging in diplomacy, and managing resources and technologies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/capsule_616x353.jpg?t=1716895810"
+    },
+    {
+      "id": "53",
+      "genre": "Strategy",
+      "name": "Crusader Kings III",
+      "releaseDate": "September 1, 2020",
+      "description": "Crusader Kings III is a grand strategy game developed by Paradox Interactive. Players manage a medieval dynasty, navigating politics, warfare, and intrigue to expand their power and influence over generations.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1908/mpajVjNHPQbyZosl14N2HRAg.jpg"
+    },
+    {
+      "id": "54",
+      "genre": "Strategy",
+      "name": "XCOM 2",
+      "releaseDate": "February 5, 2016",
+      "description": "XCOM 2 is a turn-based tactical game developed by Firaxis Games. Set in a future where Earth is under alien occupation, players lead the XCOM resistance in guerrilla warfare to reclaim the planet.",
+      "image": "https://image.api.playstation.com/cdn/EP1001/CUSA04530_00/oqF95dg0H9RDtvSVSo3sACCAFpevHr85.png"
+    },
+
+    {
+      "id": "55",
+      "genre": "Strategy",
+      "name": "Anno 1800",
+      "releaseDate": "April 16, 2019",
+      "description": "Anno 1800 is a city-building real-time strategy game developed by Blue Byte. Set during the Industrial Revolution, players build and manage cities, explore new territories, and engage in trade and diplomacy.",
+      "image": "https://gaming-cdn.com/images/products/2249/orig/anno-1800-pc-game-ubisoft-connect-europe-cover.jpg?v=1649844268"
+    },
+    {
+      "id": "56",
+      "genre": "Strategy",
+      "name": "Frostpunk",
+      "releaseDate": "April 24, 2018",
+      "description": "Frostpunk is a city-building survival game developed by 11 bit studios. Players manage the last city on Earth during a global winter, balancing resources, managing citizens' needs, and making tough moral decisions.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0410/baa5c71903860260f3cba4cc2d0076f64707e8aecd99ba0e.jpg"
+    },
+    {
+      "id": "57",
+      "genre": "Strategy",
+      "name": "Company of Heroes 3",
+      "releaseDate": "February 23, 2023",
+      "description": "Company of Heroes 3 is a real-time strategy game developed by Relic Entertainment. It combines tactical gameplay with resource management and features campaigns set during World War II.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2415/5752ce83da5492661cc8bc063da717b3ecdc297ff5b4fa6e.jpg"
     }
   ]
 }

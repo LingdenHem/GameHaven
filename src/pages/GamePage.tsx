@@ -158,9 +158,7 @@ const ReviewArea = styled.div`
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #f6f6f618;
   border: #ffffff3f 1px solid;
-
   color: white;
-
   backdrop-filter: blur(10px);
 
   textarea {
@@ -220,10 +218,8 @@ const ReviewArea = styled.div`
       align-items: flex-start;
       margin-bottom: 20px;
       padding: 15px;
-
       background-color: #f6f6f61a;
       border: #ffffff3f 1px solid;
-
       border-radius: 4px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
@@ -260,6 +256,45 @@ const ReviewArea = styled.div`
       }
     }
   }
+
+  @media (max-width: 640px) {
+    width: 90%;
+    padding: 15px;
+    margin: 20px auto 100px auto;
+
+    .input-area .name,
+    .input-area .review {
+      font-size: 14px;
+    }
+
+    .input-area input,
+    .input-area textarea {
+      font-size: 14px;
+      padding: 8px;
+    }
+
+    .input-area button {
+      font-size: 14px;
+      padding: 8px 16px;
+    }
+
+    .reviews-container .review-item {
+      padding: 10px;
+
+      p {
+        font-size: 14px;
+
+        &:nth-of-type(2) {
+          font-size: 12px;
+        }
+      }
+
+      button {
+        font-size: 12px;
+        padding: 4px 8px;
+      }
+    }
+  }
 `;
 
 const GameDetailsContainer = styled.div`
@@ -272,9 +307,7 @@ const GameDetailsContainer = styled.div`
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #f6f6f618;
   border: #ffffff3f 1px solid;
-
   color: white;
-
   backdrop-filter: blur(10px);
   position: relative;
 
@@ -308,13 +341,10 @@ const GameDetailsContainer = styled.div`
     display: flex;
     justify-content: space-between;
     width: 100%;
-
     border: #ffffff3f 1px solid;
     border-radius: 4px;
     padding: 4px 12px;
-
     color: #ffffffe7;
-
     margin-bottom: 16px;
   }
 
@@ -334,6 +364,30 @@ const GameDetailsContainer = styled.div`
       height: 100%;
       object-fit: cover;
       border-radius: 8px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    width: 90%;
+    padding: 15px;
+
+    h1 {
+      font-size: 20px;
+    }
+
+    .info {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 8px 10px;
+    }
+
+    .image-container {
+      width: 100%;
+      height: auto;
+    }
+
+    button {
+      font-size: 20px;
     }
   }
 `;

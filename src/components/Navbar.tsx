@@ -8,7 +8,7 @@ const Mainul = styled.ul`
   gap: 24px;
   padding: 10px;
   margin: 0;
-  background-color: #f6f6f618;
+
   text-align: center;
   border-radius: 3px;
   align-items: center;

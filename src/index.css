@@ -10,6 +10,11 @@ body {
   background-image: url("https://img.freepik.com/free-vector/dark-low-poly-background_1048-7971.jpg");
 }
 
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

@@ -5,7 +5,6 @@ import HomePage from "./pages/HomePage";
 import Navbar from "./components/Navbar";
 import GenreCollection from "./pages/GenreCollection";
 import GamePage from "./pages/GamePage";
-import { useContext } from "react";
 
 function App() {
   return (

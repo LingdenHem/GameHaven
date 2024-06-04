@@ -48,6 +48,14 @@ const MainGrid = styled.div`
   grid-template-rows: repeat(3, 1fr);
   gap: 14px;
   margin: 20px auto 50px auto;
+  @media (max-width: 640px) {
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 180px;
+    align-items: center;
+    justify-content: center;
+  }
 `;
 
 const GridItem = styled.div`
@@ -64,4 +72,9 @@ const GridItem = styled.div`
   color: white;
 
   backdrop-filter: blur(10px);
+
+  @media (max-width: 640px) {
+    min-width: 350px;
+    min-height: 110px;
+  }
 `;
