@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
@@ -48,6 +48,7 @@ const MainGrid = styled.div`
   grid-template-rows: repeat(3, 1fr);
   gap: 14px;
   margin: 20px auto 50px auto;
+  margin-top: 10px;
   @media (max-width: 640px) {
     display: flex;
     flex-wrap: wrap;

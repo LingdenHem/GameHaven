@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import styled from "styled-components";
 import { getGames } from "../utils/fetchGames";
 import { Link } from "react-router-dom";
@@ -33,6 +33,8 @@ const SearchBar = styled.div`
     background-color: transparent;
     border: none;
     font-size: 24px;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
     cursor: pointer;
     color: white;
     transition: all 0.12s ease-in;

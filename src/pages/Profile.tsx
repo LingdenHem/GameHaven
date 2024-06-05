@@ -170,7 +170,7 @@ const ProfileHeading = styled.div`
   text-align: center;
   font-family: "Orbitron", sans-serif;
   font-size: 48px;
-  margin-top: -10px;
+  margin-top: -18px;
   @media (max-width: 640px) {
     font-size: 38px;
   }

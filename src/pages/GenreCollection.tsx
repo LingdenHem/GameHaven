@@ -46,7 +46,7 @@ const GenreCollection: React.FC = () => {
       >
         {genre}
       </h1>
-      <h1>hello</h1>
+
       <MainGrid>
         {games.map((game, index) => (
           <GameBox key={index}>

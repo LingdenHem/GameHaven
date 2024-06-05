@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import Genre from "../components/Genre";
 import SearchComponent from "../components/SearchComponent";
@@ -21,17 +20,17 @@ const Heading = styled.div`
   }
 
   span {
-    font-size: 48px;
+    font-size: 35px;
     margin: 0px;
   }
 
   @media (max-width: 640px) {
     h1 {
-      font-size: 38px;
+      font-size: 40px;
     }
 
     span {
-      font-size: 20px;
+      font-size: 15px;
     }
   }
 `;

@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
@@ -23,6 +22,9 @@ const Mainul = styled.ul`
   a {
     color: white;
     text-decoration: none;
+  }
+  @media (max-width: 640px) {
+    font-size: 18px;
   }
 `;
 
