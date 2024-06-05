@@ -210,10 +210,10 @@
     {
       "id": "18",
       "genre": "Action",
-      "name": "Mobile Legends: Bang Bang",
-      "releaseDate": "July 14, 2016",
-      "description": "Mobile Legends: Bang Bang is a multiplayer online battle arena (MOBA) game developed by Moonton. It features fast-paced 5v5 battles with a wide selection of heroes, focusing on strategic team-based gameplay and competitive matches.",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1005080/header.jpg?t=1565791042"
+      "name": "Elden Ring",
+      "releaseDate": "February 25, 2022",
+      "description": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game features an expansive open world with a dark fantasy setting, where players can explore, battle formidable foes, and uncover deep lore crafted by Hidetaka Miyazaki and George R. R. Martin.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1612/Y5RHNmzAtc6sRYwZlYiKHAxN.png"
     },
 
     {
@@ -528,6 +528,151 @@
       "releaseDate": "February 23, 2023",
       "description": "Company of Heroes 3 is a real-time strategy game developed by Relic Entertainment. It combines tactical gameplay with resource management and features campaigns set during World War II.",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2415/5752ce83da5492661cc8bc063da717b3ecdc297ff5b4fa6e.jpg"
+    },
+    {
+      "id": "59",
+      "genre": "Adventure",
+      "name": "Shadow of the Colossus",
+      "releaseDate": "October 18, 2005",
+      "description": "An action-adventure game where players control a young warrior named Wander, who must defeat sixteen massive colossi to bring a girl back to life.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2823/CYH8Z7RFpP45L5U2XpTI7JeW.png"
+    },
+
+    {
+      "id": "60",
+      "genre": "Adventure",
+      "name": "Ori and the Blind Forest",
+      "releaseDate": "March 11, 2015",
+      "description": "A visually stunning platformer that follows Ori, a guardian spirit, on a journey to save the forest of Nibel from decay.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/387290/header.jpg?t=1701967651"
+    },
+    {
+      "id": "61",
+      "genre": "Adventure",
+      "name": "Subnautica",
+      "releaseDate": "January 23, 2018",
+      "description": "An open-world survival game set in the depths of an alien ocean, where players must gather resources, build bases, and survive the underwater dangers.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202105/1203/1I06ja4yVTXkplVZnjDTfwUf.jpg"
+    },
+    {
+      "id": "62",
+      "genre": "Adventure",
+      "name": "Firewatch",
+      "releaseDate": "February 9, 2016",
+      "description": "A first-person adventure game where players take on the role of a fire lookout named Henry in the Wyoming wilderness, uncovering mysterious occurrences in the forest.",
+      "image": "https://image.api.playstation.com/cdn/EP0144/CUSA04118_00/ggQdzcbimtqao8aHOHFowA8MPW9c6m9k.png?w=440"
+    },
+    {
+      "id": "63",
+      "genre": "Adventure",
+      "name": "Life is Strange",
+      "releaseDate": "January 30, 2015",
+      "description": "An episodic adventure game that follows Max Caulfield, a high school student with the ability to rewind time, as she navigates complex relationships and investigates a dark mystery.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1412/bJYCCmymxvgviuuolfOx8srg.png"
+    },
+    {
+      "id": "64",
+      "genre": "Adventure",
+      "name": "Journey",
+      "releaseDate": "March 13, 2012",
+      "description": "An atmospheric adventure game where players control a robed figure traveling through a vast desert, uncovering the story of an ancient civilization.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/8BzwVl2lf7yreeT7fK9cSGcn.jpg"
+    },
+    {
+      "id": "65",
+      "genre": "Adventure",
+      "name": "The Outer Worlds",
+      "releaseDate": "October 25, 2019",
+      "description": "An action role-playing game set in a sci-fi universe where players explore various planets, make impactful choices, and unravel corporate conspiracies.",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307DWVuREjDv3JnXusQxTjHIJHzhxx2_CUkUzQhzwYe5KUktTVe2_rFsnYYa1hMNlqHrWemXr0Nut__AF2KWPJp84uBZvf.png"
+    },
+    {
+      "id": "66",
+      "genre": "Adventure",
+      "name": "The Last of Us Part II",
+      "releaseDate": "June 19, 2020",
+      "description": "An action-adventure game set in a post-apocalyptic world where players follow Ellie on a journey of vengeance, exploring emotional storytelling and intense gameplay.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/0b68ebf352db559cb45a75bd32fed3381f34dc52c5480192.png"
+    },
+    {
+      "id": "67",
+      "genre": "Adventure",
+      "name": "Hollow Knight",
+      "releaseDate": "February 24, 2017",
+      "description": "A Metroidvania-style action-adventure game where players explore the vast, interconnected world of Hallownest, battling enemies and uncovering secrets.",
+      "image": "https://image.api.playstation.com/cdn/EP1805/CUSA13285_00/DmwPWlU0468FbsjrtI92FhQz1xBYMoog.png"
+    },
+    {
+      "id": "68",
+      "genre": "Simulation",
+      "name": "The Sims 4",
+      "releaseDate": "September 2, 2014",
+      "description": "A life simulation game where players create and control people in a virtual world, building their homes, forming relationships, and guiding their lives.",
+      "image": "https://store-images.s-microsoft.com/image/apps.16747.14318793375483754.bef3d00f-b454-4ca1-b55e-94fd2ae048e4.e2eb74a7-7171-4496-9541-dc35c71e6981?mode=scale&q=90&h=720&w=1280&background=%23FFFFFF"
+    },
+    {
+      "id": "69",
+      "genre": "Simulation",
+      "name": "Stardew Valley",
+      "releaseDate": "February 26, 2016",
+      "description": "An open-ended country-life RPG where players manage their farm, grow crops, raise animals, mine, fish, and engage in various social activities.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202102/1922/ajZXwKlWvBPfznci6hSGZoOr.png"
+    },
+    {
+      "id": "70",
+      "genre": "Simulation",
+      "name": "Cities: Skylines",
+      "releaseDate": "March 10, 2015",
+      "description": "A city-building simulation game where players design and manage a city, dealing with everything from zoning and road placement to public services and pollution control.",
+      "image": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg"
+    },
+    {
+      "id": "71",
+      "genre": "Simulation",
+      "name": "Planet Zoo",
+      "releaseDate": "November 5, 2019",
+      "description": "A zoo management game where players create and manage their own zoo, caring for animals, designing habitats, and ensuring the satisfaction of visitors.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/3e9face5939ff74cb52fc44508cd42d0481d85f3612a09e9.png"
+    },
+    {
+      "id": "72",
+      "genre": "Simulation",
+      "name": "Football Manager 2021",
+      "releaseDate": "November 24, 2020",
+      "description": "A sports management simulation where players take on the role of a football manager, making decisions on tactics, transfers, training, and more to lead their team to victory.",
+      "image": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2020/11/Football-Manager-2021.jpg"
+    },
+    {
+      "id": "73",
+      "genre": "Simulation",
+      "name": "Euro Truck Simulator 2",
+      "releaseDate": "October 19, 2012",
+      "description": "A vehicle simulation game where players drive across Europe, delivering cargo, managing their trucking business, and exploring detailed cities and landscapes.",
+      "image": "https://products.eneba.games/resized-products/V8fK6Td_350x200_1x-0.jpg"
+    },
+    {
+      "id": "74",
+      "genre": "Simulation",
+      "name": "Kerbal Space Program",
+      "releaseDate": "April 27, 2015",
+      "description": "A space flight simulation game where players build and manage their own space program, designing rockets, conducting missions, and exploring celestial bodies.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2609/tvVAG92KJYkYzV17ebvuL5vQ.png"
+    },
+    {
+      "id": "75",
+      "genre": "Simulation",
+      "name": "Flight Simulator 2020",
+      "releaseDate": "August 18, 2020",
+      "description": "A flight simulation game that offers an incredibly realistic flying experience with a vast selection of aircraft and accurately rendered locations around the world.",
+      "image": "https://assets.xboxservices.com/assets/8e/48/8e4805cd-f0b1-422d-88e8-73ce2d0c4368.jpg?n=Microsoft-Flight-Simulator_GLP-Page-Hero-0_1083x1222_06.jpg"
+    },
+    {
+      "id": "76",
+      "genre": "Simulation",
+      "name": "Farming Simulator 19",
+      "releaseDate": "November 20, 2018",
+      "description": "An agricultural simulation game where players manage their own farm, growing crops, raising livestock, and using a variety of farming machinery.",
+      "image": "https://www.gamekeys.se/wp-content/uploads/2021/01/farming-simulator-19_cover_original.jpg"
     }
   ]
 }

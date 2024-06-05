@@ -163,6 +163,7 @@ const ReviewArea = styled.div`
 
   textarea {
     resize: none !important;
+    font-family: "Orbitron", sans-serif;
   }
 
   .input-area {
@@ -188,6 +189,7 @@ const ReviewArea = styled.div`
     color: white;
     border-radius: 4px;
     font-size: 16px;
+    font-family: "Orbitron", sans-serif;
   }
 
   .input-area textarea {
@@ -205,6 +207,7 @@ const ReviewArea = styled.div`
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    font-family: "Orbitron", sans-serif;
 
     &:hover {
       background-color: #0056b3;
@@ -249,6 +252,8 @@ const ReviewArea = styled.div`
         font-size: 14px;
         transition: background-color 0.3s;
         margin-top: 10px;
+        font-family: "Orbitron", sans-serif;
+        font-weight: 600;
 
         &:hover {
           background-color: #cc0000;
@@ -346,6 +351,8 @@ const GameDetailsContainer = styled.div`
     padding: 4px 12px;
     color: #ffffffe7;
     margin-bottom: 16px;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
   }
 
   p {

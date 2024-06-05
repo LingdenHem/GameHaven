@@ -56,11 +56,15 @@ const Profile = () => {
           Filter by genre
           <select value={genreFilter} onChange={handleGenreChange}>
             <option value="">All</option>
+            <option value="Shooter">Shooter</option>
             <option value="MOBA">MOBA</option>
-            <option value="Racing">Racing</option>
+            <option value="RPG">RPG</option>
             <option value="Action">Action</option>
-            <option value="Adventure">Adventure</option>
             <option value="Strategy">Strategy</option>
+            <option value="Adventure">Adventure</option>
+            <option value="Sports">Sports</option>
+            <option value="Simulation">Simulation</option>
+            <option value="Racing">Racing</option>
           </select>
         </label>
       </FilterContainer>

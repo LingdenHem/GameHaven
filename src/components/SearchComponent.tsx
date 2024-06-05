@@ -116,8 +116,6 @@ const SearchComponent = () => {
       game.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
-    console.log(filteredResults);
-
     setSearchResults(filteredResults);
   };
 
